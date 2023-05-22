@@ -114,6 +114,34 @@ blockquote p{
    margin: 0px;
    padding: 32px 50px;
   }
-  
-  
+
+.action{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    color: #E5E7EB;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 64px;
+    margin: 58px 60px;
+    border-radius: 5px;
+}
+.action button{
+    background-color: #3882F6;
+    font-weight: bold;
+    padding: 4px 18px;
+    color: #E5E7EB;
+    height: 25px;
+    border-radius: 6px;
+    border: 1px solid #E5E7EB;
+}
+.action .title{
+    font-weight: bold;
+    margin: 0px;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+.action p{
+    margin: 0px;
+}
   
