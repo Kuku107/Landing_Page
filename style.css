@@ -60,7 +60,6 @@ body {
     align-self: stretch;
     background-color: #787878;
     color: #F9FAF8;
-    text-align: center;
 }
 .state p{
     font-size: 18px;
@@ -76,4 +75,26 @@ body {
     font-weight: bold;
 }
 
+.information{
+    text-align: center;
+    padding: 20px 40px 45px 40px;
+}
+
+.title{
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 32px;
+    color: #1F2937;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.infor img{
+    width: 200px;
+    background-color: #f2f2f2;
+    border: 1px solid #3882F6;
+}
 
