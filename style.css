@@ -98,3 +98,22 @@ body {
     border: 1px solid #3882F6;
 }
 
+
+blockquote p{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #E5E7EB;
+   margin: 0px;
+   padding: 32px 50px;
+  }
+  
+  
+  
