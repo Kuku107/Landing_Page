@@ -144,4 +144,11 @@ blockquote p{
 .action p{
     margin: 0px;
 }
-  
+
+.footer p{
+    background-color: #1F2937;
+    text-align: center;
+    margin: 0px;
+    color: #F9FAF8;
+    padding: 18px 0px;
+}
